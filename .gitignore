@@ -1,0 +1,17 @@
+# Секреты и конфиги
+config.py
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Результаты
+mass_check_results.csv
+last_check_result.json
+
+# Системные
+.DS_Store
+Thumbs.db
