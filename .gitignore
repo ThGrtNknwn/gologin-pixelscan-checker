@@ -4,6 +4,8 @@ config.py
 
 # Python
 __pycache__/
+.idea/
+__pycache__/
 *.py[cod]
 .venv/
 venv/
